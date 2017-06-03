@@ -1,0 +1,31 @@
+.root {
+    background: linear-gradient(270deg, #196ebd, #01b0dd);
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .2);
+    padding: 12px 0;
+}
+
+.logo {
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+}
+
+.title {
+    font-size: 21px;
+    color: #fff;
+    font-weight: 600;
+    margin-right: 42px;
+    margin-left: 18px;
+}
+
+.text {
+    font-size: 17px;
+    color: #eee;
+    font-weight: 400;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}

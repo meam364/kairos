@@ -1,0 +1,23 @@
+.root {
+    margin-top: 32px;
+}
+
+.icon {
+    width: 52px;
+    height: 52px;
+    margin: 12px auto;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 24px -16px 0;
+}
+
+.title {
+    font-size: 21px;
+    color: #333;
+    text-align: center;
+    font-weight: 700;
+}
+
